@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-working-with-forms/static/css/main.af5278fe.css",
+    "main.js": "/react-working-with-forms/static/js/main.d4fd4a58.js",
+    "index.html": "/react-working-with-forms/index.html",
+    "main.af5278fe.css.map": "/react-working-with-forms/static/css/main.af5278fe.css.map",
+    "main.d4fd4a58.js.map": "/react-working-with-forms/static/js/main.d4fd4a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5278fe.css",
+    "static/js/main.d4fd4a58.js"
+  ]
+}
